@@ -41,7 +41,7 @@ The project currently supports execution using Docker containers. For installati
 In both cases, it is necessary to clone the repository, then open a command terminal:
 
 ```bash
-git -c core.autocrlf=input clone https://github.com/allgood/ticketz.git
+git -c core.autocrlf=input clone https://github.com/gorinformaticadev/ticketz.git
 cd ticketz
 ```
 

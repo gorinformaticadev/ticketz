@@ -69,7 +69,7 @@ Em ambos os casos é necessário clonar o repositório, necessário então abrir
 um terminal de comandos:
 
 ```bash
-git -c core.autocrlf=input clone https://github.com/allgood/ticketz.git
+git -c core.autocrlf=input clone https://github.com/gorinformaticadev/ticketz.git
 cd ticketz
 ```
 
